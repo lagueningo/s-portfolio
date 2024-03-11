@@ -5,6 +5,9 @@ description: > # keep this and put description below
   Game Designer
 #url: "https://yourdomain.com" # the base hostname & protocol for your site
 #linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
+
+image: https://www.yunnanexploration.com/wp-content/uploads/2017/04/Yuhu-Village-Lijiang-03.jpg
+
 github_username: lagueningo
 #twitter_username: gamingportfolio
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
